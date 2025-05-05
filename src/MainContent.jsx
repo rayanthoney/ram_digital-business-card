@@ -11,7 +11,7 @@ export default function MainContent() {
     <>
       <div className="container">
         <div className="img-container">
-          <img src={me} alt="" className="main-img" />
+{/*           <img src={me} alt="" className="main-img" /> */}
         </div>
         <div className="sub-container">
           <h2 className="name">Ray Anthoney</h2>
