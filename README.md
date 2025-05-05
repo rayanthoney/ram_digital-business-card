@@ -5,7 +5,7 @@
 <!-- link to project -->
     <a href='-URL TO DEMO GOES HERE-'>
     <!-- link to local image -->
-        <img src="src/assets/ram_dbc.png" alt="thumbnail" height="100%"/>
+<!--         <img src="src/assets/ram_dbc.png" alt="thumbnail" height="100%"/> -->
     </a>
 
 **Link to project:** http://recruiters-love-seeing-live-demos.com/
